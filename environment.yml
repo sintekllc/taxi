@@ -1,4 +1,4 @@
-name: C:\Users\sss\Anaconda2
+name: taxi
 channels: !!python/tuple
 - !!python/unicode
   'defaults'

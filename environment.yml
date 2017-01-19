@@ -27,8 +27,6 @@ dependencies:
 - conda=4.2.13=py27_0
 - conda-build=1.21.3=py27_0
 - conda-env=2.6.0=0
-- conda-forge::ipyleaflet=0.2.1=py27_1
-- conda-forge::widgetsnbextension=1.2.6=py27_3
 - configobj=5.0.6=py27_0
 - configparser=3.5.0b2=py27_1
 - contextlib2=0.5.3=py27_0
@@ -152,7 +150,6 @@ dependencies:
 - tornado=4.3=py27_1
 - traitlets=4.2.1=py27_0
 - unicodecsv=0.14.1=py27_0
-- vs2008_runtime=9.00.30729.1=2
 - werkzeug=0.11.10=py27_0
 - wheel=0.29.0=py27_0
 - xlrd=1.0.0=py27_0

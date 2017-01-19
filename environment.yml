@@ -29,9 +29,6 @@ dependencies:
 - clyent=1.2.2=py27_0
 - colorama=0.3.7=py27_0
 - conda-build=2.0.2=py27_0
-- conda-forge::conda=4.2.13=py27_0
-- conda-forge::conda-env=2.6.0=0
-- conda-forge::ipyleaflet=0.2.1=py27_1
 - configobj=5.0.6=py27_0
 - configparser=3.5.0=py27_0
 - contextlib2=0.5.3=py27_0

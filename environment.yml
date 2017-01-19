@@ -1,7 +1,5 @@
-name: root
-channels: !!python/tuple
-- !!python/unicode
-  'defaults'
+name: sintekllc-taxi
+
 dependencies:
 - _license=1.1=py27_1
 - _nb_ext_conf=0.3.0=py27_0

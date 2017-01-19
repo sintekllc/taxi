@@ -1,4 +1,4 @@
-name: taxi
+name: sintekllc-taxi
 channels: !!python/tuple
 - !!python/unicode
   'defaults'

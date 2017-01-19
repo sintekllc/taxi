@@ -1,7 +1,5 @@
-name: 
-channels: !!python/tuple
-- !!python/unicode
-  'defaults'
+name: sintekllc-taxi
+
 dependencies:
 - _nb_ext_conf=0.2.0=py27_0
 - alabaster=0.7.8=py27_0
@@ -209,5 +207,5 @@ dependencies:
   - watermark==1.3.4
   - webassets==0.12.0
   - xgboost==0.6
-prefix: C:\Users\sss\Anaconda2
+
 

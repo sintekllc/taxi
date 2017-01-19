@@ -1,4 +1,4 @@
-name: sintekllc-taxi
+name: root
 
 dependencies:
 - _license=1.1=py27_1
